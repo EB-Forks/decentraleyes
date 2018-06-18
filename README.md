@@ -18,7 +18,7 @@ Suggestions in the form of **Issues**, and contributions in the form of **Pull R
 
 #### Building the Code (*nix)
 
-    git clone https://github.com/Synzvato/decentraleyes --branch legacy
+    git clone https://git.synz.io/Synzvato/decentraleyes --branch legacy
     cd decentraleyes
     jpm xpi
 
