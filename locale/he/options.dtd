@@ -1,0 +1,8 @@
+<!ENTITY options.addNotice.title "הוסף הערות לקבצים מקומיים">
+<!ENTITY options.addNotice.description "צרף הודעה באופן אוטומטי למסמכים שאוחזרו, כדי לאשר שמירה מקומית.">
+<!ENTITY options.blockMissing.title "חסום בקשות למשאבים חסרים">
+<!ENTITY options.blockMissing.description "בטל בקשה מיורטת, אם המשאב הדרוש אינו זמין באופן מקומי.">
+<!ENTITY options.domainWhitelist.title "אל תכלול דומיינים כחלק מהבדיקה">
+<!ENTITY options.domainWhitelist.description "הזן דומיינים שברצונך להוסיף לרשימת התרים. הפרד ערכים מרובים באמצעות נקודה-פסיק (;).">
+<!ENTITY options.amountInjected.title "מונה משאבים מקומיים שהוזרקו">
+<!ENTITY options.amountInjected.description "כמות תוכן מקומי שהוזרק במקום רשתות אספקת תוכן מאז התקנת התוכנה.">
