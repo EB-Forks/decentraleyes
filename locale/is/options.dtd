@@ -1,0 +1,8 @@
+<!ENTITY options.addNotice.title "Bæta athugasemdum við staðværar sóttar skrár">
+<!ENTITY options.addNotice.description "Bæta sjálfkrafa athugasemd við sóttar skrár til að gefa til kynna að þær hafi verið afhentar staðvært (á tölvunni sjálfri).">
+<!ENTITY options.blockMissing.title "Loka á beiðnir vegna tilfanga sem vantar">
+<!ENTITY options.blockMissing.description "Hætta við veiddar beiðnir ef umbeðið tilfang er ekki til staðar á tölvunni.">
+<!ENTITY options.domainWhitelist.title "Undanskilja lén frá athugun">
+<!ENTITY options.domainWhitelist.description "Settu inn lén til að skrá þau á lista yfir leyfð lén. Aðgreindu færslur með semíkommum (;).">
+<!ENTITY options.amountInjected.title "Fjöldi staðvært inspýttra tilfanga">
+<!ENTITY options.amountInjected.description "Fjöldi tilfanga frá miðlægum efnisveitum (CDN) sem skipt hefur verið út síðan viðbótin var sett upp.">
