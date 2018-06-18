@@ -1,0 +1,8 @@
+<!ENTITY options.addNotice.title "Lisa kommentaare kohalikult toodud failidele">
+<!ENTITY options.addNotice.description "Automaatselt lisa teade saadud dokumentidele, et märgistada kohalik edastus.">
+<!ENTITY options.blockMissing.title "Blokeeri puuduvate ressursside taotlused">
+<!ENTITY options.blockMissing.description "Tühista kinnipüütud taotlus, kui vajaminev ressurss ei ole kohalikult saadaval.">
+<!ENTITY options.domainWhitelist.title "Välista uuritavaid domeene">
+<!ENTITY options.domainWhitelist.description "Sisesta domeenid, et lisada need valgesse nimekirja. Eralda mitu üksust semikoolonitega (;).">
+<!ENTITY options.amountInjected.title "Kohalikult sisestatud ressursside loendur">
+<!ENTITY options.amountInjected.description "Kohalike sisuedastusvõrkude ressursisisestuste arv alates installimisest.">
