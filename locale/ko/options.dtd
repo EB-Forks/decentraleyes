@@ -1,0 +1,8 @@
+<!ENTITY options.addNotice.title "로컬에서 가져온 파일에 코멘트를 추가한다">
+<!ENTITY options.addNotice.description "로컬로부터 가져온 파일에 코멘트를 추가합니다.">
+<!ENTITY options.blockMissing.title "존재하지 않는 리소스에 대한 요청을 차단">
+<!ENTITY options.blockMissing.description "리소스를 로컬에서 가져올 수 없다면 리소스 요청을 취소합니다.">
+<!ENTITY options.domainWhitelist.title "Decentraleyes를 사용하지 않을 도메인">
+<!ENTITY options.domainWhitelist.description "화이트 리스트에 등록할 도메인을 입력하세요. 여러 개를 입력할 경우 세미콜론 (;) 을 이용해 구분합니다.">
+<!ENTITY options.amountInjected.title "로컬 리소스로 대체한 요청 횟수">
+<!ENTITY options.amountInjected.description "Decentraleyes를 설치한 뒤, CDN에서 다운로드 하는 대신 로컬 자원을 사용한 횟수입니다.">
