@@ -1,0 +1,8 @@
+<!ENTITY options.addNotice.title "Přidat komentáře k lokálně uloženým souborům">
+<!ENTITY options.addNotice.description "Automaticky přidat poznámku k získaným dokumentům a označit je jako lokálně stažené.">
+<!ENTITY options.blockMissing.title "Blokovat požadavky na chybějící zdroje">
+<!ENTITY options.blockMissing.description "Zrušit požadavky na sledované zdroje, pokud nejsou lokálně dostupné.">
+<!ENTITY options.domainWhitelist.title "Nekontrolovat pro domény">
+<!ENTITY options.domainWhitelist.description "Zadejte domény pro jejich vynechání z kontroly. Jednotlivé domény oddělujte pomocí středníků (;).">
+<!ENTITY options.amountInjected.title "Počítadlo vložených lokálních zdrojů">
+<!ENTITY options.amountInjected.description "Počet lokální uložených zdrojů vložených od instalace.">
