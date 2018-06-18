@@ -1,0 +1,8 @@
+<!ENTITY options.addNotice.title "Adicionar comentários a arquivos que foram obtidos localmente">
+<!ENTITY options.addNotice.description "Forçar documentos obtidos a alertar que foram injetados recursos locais.">
+<!ENTITY options.blockMissing.title "Bloquear requisições para recursos faltosos">
+<!ENTITY options.blockMissing.description "Cancela requisições interceptadas se o recurso solicitado não está disponível localmente.">
+<!ENTITY options.domainWhitelist.title "Remover domínios das inspeções">
+<!ENTITY options.domainWhitelist.description "Digite os domínios que não devem ser analisados. Separe múltiplos domínios com ponto e vírgula (;).">
+<!ENTITY options.amountInjected.title "Contador de recursos injetados localmente">
+<!ENTITY options.amountInjected.description "Total de injeções locais de recursos de Redes de Distribuição de Conteúdo (CDNs) desde a instalação.">
