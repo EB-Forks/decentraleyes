@@ -1,0 +1,8 @@
+<!ENTITY options.addNotice.title "Yerel olarak getirilen dosyalara yorum ekle">
+<!ENTITY options.addNotice.description "Yerel teslimat sinyali vermek için alınan belgelere otomatik olarak bir bildirim ekle.">
+<!ENTITY options.blockMissing.title "Eksik kaynaklar için gelen istekleri engelle">
+<!ENTITY options.blockMissing.description "İstenilen kaynak yerel olarak mevcut değilse, yakalanan isteği iptal et.">
+<!ENTITY options.domainWhitelist.title "Alanları denetimlerden hariç tut">
+<!ENTITY options.domainWhitelist.description "Beyaz listeye eklemek için alan adlarını girin. Birden çok girdiyi noktalı virgül (;) ile ayırın.">
+<!ENTITY options.amountInjected.title "Yerel olarak eklenen kaynaklar için sayaç">
+<!ENTITY options.amountInjected.description "Kurulumdan bu yana yerel İçerik Dağıtım Ağı kaynak eklemelerinin miktarı.">
