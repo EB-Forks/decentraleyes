@@ -1,5 +1,5 @@
 <!ENTITY options.addNotice.title "Aggiungere commenti a file raccolti localmente">
-<!ENTITY options.addNotice.description "Antepone automaticamente un avviso ai documenti recuperati per segnalare la distribuzione locale.">
+<!ENTITY options.addNotice.description "Anteporre automaticamente un avviso ai documenti recuperati per segnalare la distribuzione locale.">
 <!ENTITY options.blockMissing.title "Bloccare richieste di risorse mancanti">
 <!ENTITY options.blockMissing.description "Annullare la richiesta intercettata se la risorsa necessaria non è disponibile localmente.">
 <!ENTITY options.domainWhitelist.title "Escludere domini dalle ispezioni">

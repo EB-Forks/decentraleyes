@@ -3,6 +3,6 @@
 <!ENTITY options.blockMissing.title "Bloquer les ressources manquantes">
 <!ENTITY options.blockMissing.description "Annuler une demande de ressource si elle est indisponible localement.">
 <!ENTITY options.domainWhitelist.title "Ne pas inspecter certains domaines">
-<!ENTITY options.domainWhitelist.description "Indiquez les domaines à exclure. Séparer les noms par un point-virgule (;).">
-<!ENTITY options.amountInjected.title "Compteur des ressources injectées">
-<!ENTITY options.amountInjected.description "Total des ressources des CDN injectées localement depuis l'installation.">
+<!ENTITY options.domainWhitelist.description "Entrez des domaines à la liste blanche. Séparez les entrées multiples par des points-virgules (;).">
+<!ENTITY options.amountInjected.title "Compteur de ressources injectées localement">
+<!ENTITY options.amountInjected.description "Quantité d'injections de ressources CDN locales depuis l'installation.">

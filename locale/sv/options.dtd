@@ -3,6 +3,6 @@
 <!ENTITY options.blockMissing.title "Blockera förfrågningar när resurs saknas">
 <!ENTITY options.blockMissing.description "Avbryt uppsnappning om resurs inte finns lokalt.">
 <!ENTITY options.domainWhitelist.title "Utelämna domäner från uppsnappningar">
-<!ENTITY options.domainWhitelist.description "Ange domäner för vitlistning. Spearera domänerna med semikolon (;).">
+<!ENTITY options.domainWhitelist.description "Ange domäner för vitlistning. Separera flera domänposter med semikolon (;).">
 <!ENTITY options.amountInjected.title "Räknare för lokalt insatta resurser">
 <!ENTITY options.amountInjected.description "Antalet insatta Content Delivery Network-resurser sedan installationen.">

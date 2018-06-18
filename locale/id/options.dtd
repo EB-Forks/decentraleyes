@@ -4,5 +4,5 @@
 <!ENTITY options.blockMissing.description "Batalkan intersep permintaan jika sumber daya yang dibutuhkan tidak tersedia secara lokal.">
 <!ENTITY options.domainWhitelist.title "Cegah inspeksi domain">
 <!ENTITY options.domainWhitelist.description "Masukkan domain ke daftar putih. Pisahkan entri dengan titik koma (;).">
-<!ENTITY options.amountInjected.title "Sumber daya lokal yang disematkan">
+<!ENTITY options.amountInjected.title "Jumlah sumber daya lokal yang disematkan">
 <!ENTITY options.amountInjected.description "Jumlah penyematan sumber daya Jaringan Distribusi Konten lokal sejak pemasangan.">

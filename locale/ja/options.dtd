@@ -1,8 +1,8 @@
-<!ENTITY options.addNotice.title "ローカルからのファイルにコメントを追加する">
-<!ENTITY options.addNotice.description "ローカルCDNから取得したドキュメントにその旨を記載する。">
-<!ENTITY options.blockMissing.title "存在しないリソースへの要求をブロック">
-<!ENTITY options.blockMissing.description "必要なリソースがローカルで利用できない場合、リクエストを取り消す。">
+<!ENTITY options.addNotice.title "ローカルから取得したファイルにコメントを追加する">
+<!ENTITY options.addNotice.description "ローカル配信のために取得したドキュメントへ自動的にコメントを追加します。">
+<!ENTITY options.blockMissing.title "アドオンに含まれないリソースへのリクエストをブロックする">
+<!ENTITY options.blockMissing.description "必要なリソースがローカルで利用できない場合、リクエストを取り消します。">
 <!ENTITY options.domainWhitelist.title "保護から除外するドメイン">
-<!ENTITY options.domainWhitelist.description "ホワイト リストにドメインを入力します。複数のエントリをセミコロン (;) で区切ります。">
-<!ENTITY options.amountInjected.title "ローカルから挿入されたリソースの数">
-<!ENTITY options.amountInjected.description "インストールから起算した、ローカルCDNのリソース使用数。">
+<!ENTITY options.domainWhitelist.description "ホワイトリストに登録したいドメインを入力してください。エントリが複数ある場合、セミコロン (;) で区切ってください。">
+<!ENTITY options.amountInjected.title "ローカルのリソースを使用した回数">
+<!ENTITY options.amountInjected.description "インストール後にローカルのCDNリソースを使用した回数です。">
