@@ -1,0 +1,8 @@
+<!ENTITY options.addNotice.title "Додај коментаре на локално добављене датотеке">
+<!ENTITY options.addNotice.description "Аутоматски додај напомену на преузете документе да бисте сигнализирали локалну доставу.">
+<!ENTITY options.blockMissing.title "Блокирај захтеве ка недостајућим ресурсима">
+<!ENTITY options.blockMissing.description "Откажи пресретнути захтев ако потребни ресурс није локално доступан.">
+<!ENTITY options.domainWhitelist.title "Прескочи домене приликом провере">
+<!ENTITY options.domainWhitelist.description "Унесите домене да их ставите на бели списак. Одвојите више ставки са тачка-запетама (;).">
+<!ENTITY options.amountInjected.title "Бројач локално убризганих ресурса">
+<!ENTITY options.amountInjected.description "Број локално убризганих ресурса са мрежа за доставу садржаја од дана инсталирања додатка.">
