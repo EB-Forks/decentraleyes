@@ -1,8 +1,10 @@
-data/_audit/node_modules
-data/_audit/report.txt
-.jpmignore
+*.xpi
+.eslintignore
+.eslintrc
+.git
 .gitignore
 .idea
-*.xpi
+.jpmignore
+data/_audit/node_modules
+data/_audit/report.txt
 test
-.git
